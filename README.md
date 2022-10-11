@@ -31,7 +31,7 @@
 - 🌱 Looking forward to build user friendly web applications
 - 💬 Ask me about JavaScript, React JS
 - 📫 How to reach me: megha-sharma@live.com
-- :zap: visit me @ : <a href="megha-portfolio-ovijhsemi-osr-megha.vercel.app">megha</a>
+- :zap: visit me @ : <a href="osr-megha.github.io">megha</a>
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
